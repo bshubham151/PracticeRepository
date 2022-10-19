@@ -3,6 +3,7 @@ public class Calculator {
 	public void addition(int num1, int num2) {
 	    int sum=num1+num2;
 	    System.out.println("The addition is "+sum);
+	    System.out.println("Change to view in github");
 	}
 
 	public int product(int a, int b) {
